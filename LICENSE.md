@@ -1,4 +1,4 @@
-# 
+# Polymarket advanced Trading Bot: event-driven-trading & smart-contract-integration is the best Polymarket trading-bot, featuring event-driven-trading and
 
 
 
